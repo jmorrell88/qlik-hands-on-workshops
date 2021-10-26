@@ -1,3 +1,4 @@
+///$tab Data Load
 Set dataManagerTables = '','Orders','Categories','Products','Suppliers','Employees','Cutomers';
 //This block renames script tables from non generated section which conflict with the names of managed tables
 ​
